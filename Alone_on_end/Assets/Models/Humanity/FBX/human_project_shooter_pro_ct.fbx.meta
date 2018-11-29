@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 2594d3dbd024eac43bb76a4bd4f7fcc6
+timeCreated: 1514816438
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: foot.L
+    100004: foot.R
+    100006: forearm.L
+    100008: forearm.R
+    100010: hand.L
+    100012: hand.L_end
+    100014: hand.R
+    100016: hand.R_end
+    100018: head
+    100020: head_end
+    100022: heel.L
+    100024: heel.L_end
+    100026: heel.R
+    100028: heel.R_end
+    100030: hips
+    100032: //RootNode
+    100034: Koleno_L_IK
+    100036: Koleno_L_IK_end
+    100038: Koleno_R_IK
+    100040: Koleno_R_IK_end
+    100042: look
+    100044: Man
+    100046: metarig
+    100048: neck
+    100050: root
+    100052: shin.L
+    100054: shin.L_full
+    100056: shin.L_full_end
+    100058: shin.R
+    100060: shin.R_full
+    100062: shin.R_full_end
+    100064: shoulder.L
+    100066: shoulder.R
+    100068: spine_loop
+    100070: Taz_L
+    100072: Taz_L_end
+    100074: Taz_R
+    100076: Taz_R_end
+    100078: thigh.L
+    100080: thigh.R
+    100082: toe.L
+    100084: toe.L_end
+    100086: toe.L_end_end
+    100088: toe.R
+    100090: toe.R_end
+    100092: toe.R_end_end
+    100094: upper_arm.L
+    100096: upper_arm.R
+    400000: chest
+    400002: foot.L
+    400004: foot.R
+    400006: forearm.L
+    400008: forearm.R
+    400010: hand.L
+    400012: hand.L_end
+    400014: hand.R
+    400016: hand.R_end
+    400018: head
+    400020: head_end
+    400022: heel.L
+    400024: heel.L_end
+    400026: heel.R
+    400028: heel.R_end
+    400030: hips
+    400032: //RootNode
+    400034: Koleno_L_IK
+    400036: Koleno_L_IK_end
+    400038: Koleno_R_IK
+    400040: Koleno_R_IK_end
+    400042: look
+    400044: Man
+    400046: metarig
+    400048: neck
+    400050: root
+    400052: shin.L
+    400054: shin.L_full
+    400056: shin.L_full_end
+    400058: shin.R
+    400060: shin.R_full
+    400062: shin.R_full_end
+    400064: shoulder.L
+    400066: shoulder.R
+    400068: spine_loop
+    400070: Taz_L
+    400072: Taz_L_end
+    400074: Taz_R
+    400076: Taz_R_end
+    400078: thigh.L
+    400080: thigh.R
+    400082: toe.L
+    400084: toe.L_end
+    400086: toe.L_end_end
+    400088: toe.R
+    400090: toe.R_end
+    400092: toe.R_end_end
+    400094: upper_arm.L
+    400096: upper_arm.R
+    4300000: Man
+    9500000: //RootNode
+    13700000: Man
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

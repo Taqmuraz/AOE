@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 93fc47925c94b5f4db990ce13950bac4
+timeCreated: 1514816643
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Map
+    100002: //RootNode
+    100004: Plane
+    100006: Plane_001
+    100008: Plane_002
+    100010: Plane_003
+    100012: Plane_004
+    100014: Plane_005
+    100016: Plane_006
+    100018: Plane_007
+    100020: Sun
+    100022: Sun_001
+    100024: Water
+    100026: Water_fall
+    100028: wood
+    100030: wood_001
+    100032: wood_002
+    100034: wood_003
+    100036: wood_004
+    100038: wood_005
+    100040: wood_006
+    100042: wood_007
+    400000: Map
+    400002: //RootNode
+    400004: Plane
+    400006: Plane_001
+    400008: Plane_002
+    400010: Plane_003
+    400012: Plane_004
+    400014: Plane_005
+    400016: Plane_006
+    400018: Plane_007
+    400020: Sun
+    400022: Sun_001
+    400024: Water
+    400026: Water_fall
+    400028: wood
+    400030: wood_001
+    400032: wood_002
+    400034: wood_003
+    400036: wood_004
+    400038: wood_005
+    400040: wood_006
+    400042: wood_007
+    2300000: Map
+    2300002: Plane
+    2300004: Plane_001
+    2300006: Plane_002
+    2300008: Plane_003
+    2300010: Plane_004
+    2300012: Plane_005
+    2300014: Plane_006
+    2300016: Plane_007
+    2300018: Water
+    2300020: Water_fall
+    2300022: wood
+    2300024: wood_001
+    2300026: wood_002
+    2300028: wood_003
+    2300030: wood_004
+    2300032: wood_005
+    2300034: wood_006
+    2300036: wood_007
+    3300000: Map
+    3300002: Plane
+    3300004: Plane_001
+    3300006: Plane_002
+    3300008: Plane_003
+    3300010: Plane_004
+    3300012: Plane_005
+    3300014: Plane_006
+    3300016: Plane_007
+    3300018: Water
+    3300020: Water_fall
+    3300022: wood
+    3300024: wood_001
+    3300026: wood_002
+    3300028: wood_003
+    3300030: wood_004
+    3300032: wood_005
+    3300034: wood_006
+    3300036: wood_007
+    4300000: Map
+    4300002: Water_fall
+    4300004: Water
+    4300006: Plane
+    4300008: wood
+    4300010: wood_001
+    4300012: Plane_001
+    4300014: Plane_002
+    4300016: wood_002
+    4300018: wood_003
+    4300020: Plane_003
+    4300022: wood_004
+    4300024: Plane_004
+    4300026: Plane_005
+    4300028: wood_005
+    4300030: Plane_006
+    4300032: wood_006
+    4300034: wood_007
+    4300036: Plane_007
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

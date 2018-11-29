@@ -1,0 +1,1615 @@
+fileFormatVersion: 2
+guid: d28abbbc9f6438b4e971810e75fe0c02
+timeCreated: 1515419148
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bedro_L
+    100004: Bedro_P
+    100006: Golova
+    100008: Golova_end
+    100010: Golova_end_end
+    100012: Hand_L
+    100014: Hand_R
+    100016: Head
+    100018: Kluchitsa_L
+    100020: Kluchitsa_L_end
+    100022: Kluchitsa_L_end_end
+    100024: Kluchitsa_P
+    100026: Kluchitsa_P_end
+    100028: Kluchitsa_P_end_end
+    100030: Koleno_L
+    100032: Koleno_L_end
+    100034: Koleno_L_end_end
+    100036: Koleno_P
+    100038: Koleno_P_end
+    100040: Koleno_P_end_end
+    100042: Leg_L
+    100044: Leg_R
+    100046: Lokot_L
+    100048: Lokot_L_end
+    100050: Lokot_L_end_end
+    100052: Lokot_P
+    100054: Lokot_P_end
+    100056: Lokot_P_end_end
+    100058: Ruka_L
+    100060: Ruka_P
+    100062: Skelet
+    100064: Sun
+    100066: Sun.001
+    100068: Tors
+    100070: Tors 1
+    100072: Tors.001
+    100074: Tors.001_end
+    100076: Tors.002
+    100078: Tors.002_end
+    100080: //RootNode
+    400000: Armature
+    400002: Bedro_L
+    400004: Bedro_P
+    400006: Golova
+    400008: Golova_end
+    400010: Golova_end_end
+    400012: Hand_L
+    400014: Hand_R
+    400016: Head
+    400018: Kluchitsa_L
+    400020: Kluchitsa_L_end
+    400022: Kluchitsa_L_end_end
+    400024: Kluchitsa_P
+    400026: Kluchitsa_P_end
+    400028: Kluchitsa_P_end_end
+    400030: Koleno_L
+    400032: Koleno_L_end
+    400034: Koleno_L_end_end
+    400036: Koleno_P
+    400038: Koleno_P_end
+    400040: Koleno_P_end_end
+    400042: Leg_L
+    400044: Leg_R
+    400046: Lokot_L
+    400048: Lokot_L_end
+    400050: Lokot_L_end_end
+    400052: Lokot_P
+    400054: Lokot_P_end
+    400056: Lokot_P_end_end
+    400058: Ruka_L
+    400060: Ruka_P
+    400062: Skelet
+    400064: Sun
+    400066: Sun.001
+    400068: Tors
+    400070: Tors 1
+    400072: Tors.001
+    400074: Tors.001_end
+    400076: Tors.002
+    400078: Tors.002_end
+    400080: //RootNode
+    4300000: Head
+    4300002: Leg_L
+    4300004: Leg_R
+    4300006: Hand_R
+    4300008: Hand_L
+    4300010: Tors
+    7400000: Armature|Z_Atack_1
+    7400002: Armature|Z_Atack_2
+    7400004: Armature|Z_Attack_main
+    7400006: Armature|Z_Call
+    7400008: Armature|Z_Die_1
+    7400010: Armature|Z_Die_2
+    7400012: Armature|Z_Idle
+    7400014: Armature|Z_Idle_active
+    7400016: Armature|Z_Pain_1
+    7400018: Armature|Z_Pain_2
+    7400020: Armature|Z_Polzti
+    7400022: Armature|Z_walk
+    7400024: Armature|Z_walk_active
+    9500000: //RootNode
+    13700000: Hand_L
+    13700002: Hand_R
+    13700004: Head
+    13700006: Leg_L
+    13700008: Leg_R
+    13700010: Tors
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature|Z_Atack_1
+      takeName: Armature|Z_Atack_1
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Atack_2
+      takeName: Armature|Z_Atack_2
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Attack_main
+      takeName: Armature|Z_Attack_main
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Call
+      takeName: Armature|Z_Call
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Die_1
+      takeName: Armature|Z_Die_1
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Die_2
+      takeName: Armature|Z_Die_2
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Idle
+      takeName: Armature|Z_Idle
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Idle_active
+      takeName: Armature|Z_Idle_active
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Pain_1
+      takeName: Armature|Z_Pain_1
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Pain_2
+      takeName: Armature|Z_Pain_2
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_Polzti
+      takeName: Armature|Z_Polzti
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_walk
+      takeName: Armature|Z_walk
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature|Z_walk_active
+      takeName: Armature|Z_walk_active
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Skelet
+        weight: 1
+      - path: Armature/Skelet/Bedro_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_L/Koleno_L/Koleno_L_end/Koleno_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end
+        weight: 1
+      - path: Armature/Skelet/Bedro_P/Koleno_P/Koleno_P_end/Koleno_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Golova/Golova_end/Golova_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_L/Kluchitsa_L_end/Kluchitsa_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Kluchitsa_P/Kluchitsa_P_end/Kluchitsa_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_L/Lokot_L/Lokot_L_end/Lokot_L_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end
+        weight: 1
+      - path: Armature/Skelet/Tors 1/Ruka_P/Lokot_P/Lokot_P_end/Lokot_P_end_end
+        weight: 1
+      - path: Armature/Skelet/Tors.001
+        weight: 1
+      - path: Armature/Skelet/Tors.001/Tors.001_end
+        weight: 1
+      - path: Armature/Skelet/Tors.002
+        weight: 1
+      - path: Armature/Skelet/Tors.002/Tors.002_end
+        weight: 1
+      - path: Hand_L
+        weight: 1
+      - path: Hand_R
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Leg_L
+        weight: 1
+      - path: Leg_R
+        weight: 1
+      - path: Sun
+        weight: 1
+      - path: Sun.001
+        weight: 1
+      - path: Tors
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

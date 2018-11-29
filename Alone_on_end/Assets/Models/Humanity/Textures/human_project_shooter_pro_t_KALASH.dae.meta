@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 402bfba1270664b4091ebeb3491d73c2
+timeCreated: 1514816441
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: foot.L
+    100004: foot.R
+    100006: forearm.L
+    100008: forearm.R
+    100010: hand.L
+    100012: hand.R
+    100014: head
+    100016: heel.L
+    100018: heel.R
+    100020: hips
+    100022: //RootNode
+    100024: Koleno_L_IK
+    100026: Koleno_R_IK
+    100028: look
+    100030: Magazine_kalash
+    100032: man_t
+    100034: metarig
+    100036: neck
+    100038: root
+    100040: shin.L
+    100042: shin.L_full
+    100044: shin.R
+    100046: shin.R_full
+    100048: shoulder.L
+    100050: shoulder.R
+    100052: spine_loop
+    100054: Taz_L
+    100056: Taz_R
+    100058: thigh.L
+    100060: thigh.R
+    100062: toe.L
+    100064: toe.L_end
+    100066: toe.R
+    100068: toe.R_end
+    100070: upper_arm.L
+    100072: upper_arm.R
+    100074: Zatvor
+    400000: chest
+    400002: foot.L
+    400004: foot.R
+    400006: forearm.L
+    400008: forearm.R
+    400010: hand.L
+    400012: hand.R
+    400014: head
+    400016: heel.L
+    400018: heel.R
+    400020: hips
+    400022: //RootNode
+    400024: Koleno_L_IK
+    400026: Koleno_R_IK
+    400028: look
+    400030: Magazine_kalash
+    400032: man_t
+    400034: metarig
+    400036: neck
+    400038: root
+    400040: shin.L
+    400042: shin.L_full
+    400044: shin.R
+    400046: shin.R_full
+    400048: shoulder.L
+    400050: shoulder.R
+    400052: spine_loop
+    400054: Taz_L
+    400056: Taz_R
+    400058: thigh.L
+    400060: thigh.R
+    400062: toe.L
+    400064: toe.L_end
+    400066: toe.R
+    400068: toe.R_end
+    400070: upper_arm.L
+    400072: upper_arm.R
+    400074: Zatvor
+    2300000: Magazine_kalash
+    2300002: man_t
+    2300004: Zatvor
+    3300000: Magazine_kalash
+    3300002: man_t
+    3300004: Zatvor
+    4300000: man_t
+    4300002: Magazine_kalash
+    4300004: Zatvor
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

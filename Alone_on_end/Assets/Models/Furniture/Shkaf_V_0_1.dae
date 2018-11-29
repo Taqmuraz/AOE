@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.77.0 commit date:2016-04-05, commit time:18:12, hash:abf6f08</authoring_tool>
+    </contributor>
+    <created>2017-11-06T11:04:20</created>
+    <modified>2017-11-06T11:04:20</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images>
+    <image id="Shkaf_jpg" name="Shkaf_jpg">
+      <init_from>Shkaf.jpg</init_from>
+    </image>
+  </library_images>
+  <library_effects>
+    <effect id="Shkaf-effect">
+      <profile_COMMON>
+        <newparam sid="Shkaf_jpg-surface">
+          <surface type="2D">
+            <init_from>Shkaf_jpg</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="Shkaf_jpg-sampler">
+          <sampler2D>
+            <source>Shkaf_jpg-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <texture texture="Shkaf_jpg-sampler" texcoord="UVMap"/>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="Shkaf-material" name="Shkaf">
+      <instance_effect url="#Shkaf-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_002-mesh" name="Cube.002">
+      <mesh>
+        <source id="Cube_002-mesh-positions">
+          <float_array id="Cube_002-mesh-positions-array" count="24">-0.5 0.1999999 0 -0.5 0.1999999 2 0.5 0.2 0 0.5 0.2 2 -0.5 -0.2 0 -0.5 -0.2 2 0.5 -0.1999999 0 0.5 -0.1999999 2</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-positions-array" count="8" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_002-mesh-normals">
+          <float_array id="Cube_002-mesh-normals-array" count="12">-1.19209e-7 1 0 1 1.49012e-7 0 -1 -1.49012e-7 0 0 0 1</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-normals-array" count="4" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_002-mesh-map-0">
+          <float_array id="Cube_002-mesh-map-0-array" count="48">0.3548284 0.9670703 0.5977088 0.2325966 0.5977089 0.9670702 0.4962376 0.7475603 0.5903545 0.122967 0.5903545 0.7475603 0.5903545 0.7475603 0.4962376 0.122967 0.4962376 0.7475603 0.5992659 0.4748958 0.4816198 0.08452492 0.5992659 0.08452498 0.3548284 0.9670703 0.3548283 0.2325966 0.5977088 0.2325966 0.4962376 0.7475603 0.4962376 0.122967 0.5903545 0.122967 0.5903545 0.7475603 0.5903545 0.122967 0.4962376 0.122967 0.5992659 0.4748958 0.4816198 0.4748957 0.4816198 0.08452492</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-map-0-array" count="24" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cube_002-mesh-vertices">
+          <input semantic="POSITION" source="#Cube_002-mesh-positions"/>
+        </vertices>
+        <polylist material="Shkaf-material" count="8">
+          <input semantic="VERTEX" source="#Cube_002-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_002-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_002-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 3 </vcount>
+          <p>3 0 0 0 0 1 1 0 2 7 1 3 2 1 4 3 1 5 1 2 6 4 2 7 5 2 8 7 3 9 1 3 10 5 3 11 3 0 12 2 0 13 0 0 14 7 1 15 6 1 16 2 1 17 1 2 18 0 2 19 4 2 20 7 3 21 3 3 22 1 3 23</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Cube" name="Cube" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Cube_002-mesh" name="Cube">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Shkaf-material" target="#Shkaf-material">
+                <bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

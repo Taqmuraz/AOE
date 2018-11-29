@@ -1,0 +1,127 @@
+Initialize engine version: 5.6.3f1 (d3101c3b8468)
+GfxDevice: creating device client; threaded=1
+d3d11: D3D_FEATURE_LEVEL_11_1 not-recognized (only 11.0 runtime installed?)
+d3d11: failed to create device and context (887a0004).
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.8.1096]
+    Renderer: Intel(R) Graphics Media Accelerator 3600 Series
+    Vendor:   Intel
+    VRAM:     762 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=0 RESZ=0 SlowINTZ=0 ATOC=0 BC4=0 BC5=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.804 seconds
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UnityProjects\AOE_Update\Alone_on_end\Build_Zombie\Application_Data\Managed\System.dll (this message is harmless)
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/VR/BlitCopyFromTexArray' - Setting to default shader.
+desktop: 1024x600 60Hz; virtual: 1024x600 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+UnloadTime: 4.724655 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 15e4 -> priority: 1 
+Saved settings sucsess
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.860031 ms
+
+Unloading 68 unused Assets to reduce memory usage. Loaded Objects now: 939.
+Total: 2.491928 ms (FindLiveObjects: 0.240595 ms CreateObjectMapping: 0.180927 ms MarkObjects: 1.632842 ms  DeleteObjects: 0.434996 ms)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : Human(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UPDATED : 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : HumanRag(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Added : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: BC6H/BC7 texture format is not supported, decompressing texture
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : ZombieRag_0(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : Human(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Removed : HumanRag(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 40.127499 ms
+
+Unloading 833 unused Assets to reduce memory usage. Loaded Objects now: 407.
+Total: 13.239815 ms (FindLiveObjects: 0.295772 ms CreateObjectMapping: 0.447187 ms MarkObjects: 1.223508 ms  DeleteObjects: 11.270782 ms)
+
